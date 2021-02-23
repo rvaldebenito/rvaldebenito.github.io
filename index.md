@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Hi 👋 
 
-You can use the [editor on GitHub](https://github.com/rvaldebenito/rvaldebenito.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a third-year PhD Student in Applied Economics at the University of Illinois at Urbana-Champaign and former Research Assistant in the Center for Regional Economics and Policy at Universidad Adolfo Ibañez, Chile. My research interests are Development Economics, Regional Economics, and Economics of Education. Right now, I'm working on the analysis of inter-regional migration of high school graduates enrolled in higher education, the effects of commuting on students at high school. Also, I'm interested in how educational policies can affect fertility and infant health. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Working papers:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Migration Decisions for Tertiary Education: How Far Are Chilean Students Willing to Go?
 
-```markdown
-Syntax highlighted code block
+Abstract:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvaldebenito/rvaldebenito.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The human capital distribution plays an important role in the geography of jobs, incomes, as well as the short- and long-run regional labor force. Using a novel dataset on the universe of Chilean students pursuing higher education over 2011--2017, this paper assesses the roles of geography, tertiary institution type, and field of study in determining students' migration decisions. Using a gravity model approach, the main results highlight how differences in the migration flows are due to the type of institution and field of study chosen, and the region of origin and destination of the migration flows. Specifically, the estimations indicate significant differences in the degree that technical/vocational oriented institutions attract students from their own and neighboring regions compared to universities. Field of study comparisons suggest that the Education field mostly attracts students from the local community. The results also speak to inter-regional polarization in educational resources, as the largest region attracts a disproportionate number of students from other regions.

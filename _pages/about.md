@@ -13,5 +13,7 @@ redirect_from:
 About me:
 ======
 
-I am a third-year PhD Student in Applied Economics at the University of Illinois at Urbana-Champaign and former Research Assistant in the Center for Regional Economics and Policy at Universidad Adolfo Ibañez, Chile. My research interests are Development Economics, Regional Economics, and Economics of Education. I'm currently working on the analysis of inter-regional migration of high school graduates enrolled in higher education and the effects of commuting on students at high school. Also, I'm interested in how educational policies can affect fertility and infant health. 
+I am a fourth-year PhD Student in [Applied Economics at the University of Illinois at Urbana-Champaign](https://ace.illinois.edu/) and former Research Assistant in the [Center for Regional Economics and Policy](https://cepr.uai.cl/) at Universidad Adolfo Ibañez, Chile. My research interests are Development Economics, Regional Economics, and Economics of Education. My current research includes the role of geopgraphical variables on the inter-regional migration of high school graduates enrolled in higher education, the effects of commuting on high school students' performance, and finally, how changes at higher educational level in terms of expansion or access, can affect fertility and infant health. 
 
+
+I'm also Teaching and Research assistant at the Deparment of Agricultural and Consumer Economics (UIUC). Currently, I am working as RA in a project lead by(Catalina Herrera-Almanza)[https://catalinaherrera.weebly.com/] entitled `Social Networks and Women's Reproductive Outcomes: Evidence from a Randomized Experiment in Rural India'.  

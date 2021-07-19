@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Migration Decisions for Tertiary Education: How Far Are Chilean Students Willing to Go? (Working Paper)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 
+date: 
+venue: 
+paperurl: 
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+The human capital distribution plays an important role in the geography of jobs, incomes, as well as the short- and long-run regional labor force. Using a novel dataset on the universe of Chilean students pursuing higher education over 2011--2017, this paper assesses the roles of geography, tertiary institution type, and field of study in determining students' migration decisions. Using a gravity model approach, the main results highlight how differences in the migration flows are due to the type of institution and field of study chosen, and the region of origin and destination of the migration flows. Specifically, the estimations indicate significant differences in the degree that technical/vocational oriented institutions attract students from their own and neighboring regions compared to universities. Field of study comparisons suggest that the Education field mostly attracts students from the local community. The results also speak to inter-regional polarization in educational resources, as the largest region attracts a disproportionate number of students from other regions.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+

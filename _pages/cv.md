@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Business Administration, Universidad Adolfo Ibáñez, Chile. 2013
+* M.S. in Management, Universidad Adolfo Ibáñez, Chile. 2013
+* Ph.D in Agricultural and Applied Economics, University of Illinois at Urbana-Champaign (2018-present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021-Present: Research Assistant 
+  * Social Networks and Women’s Reproductive Outcomes: Evidence from a Randomized Experiment in Rural India.
+  * Supervisor: Catalina Herrera-Almanza
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Teaching Assistant
+  * Spring 2021: ACE 592 Data Science for Applied Economics (Professor: Jared Hutchins)
+  * Fall 2020: ACE 261 Applied Statistical Methods (Professor: Lisa Gundersen)
+
+* Lecturer:
+  * 2015-2018: Microeconomics and Industrial Organization (Universidad Adolfo Ibáñez, Chile)  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, Stata, ArcGIS. 
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Aroca, P., Gonzalez, P. A., & Valdebenito, R. (2017). The heterogeneous level of life quality across Chilean regions. *Habitat International*, 68, 84-98.
+* Valdebenito, R., Dall'Erba, S., Arends-Kuenning, M., Ridley, W. Migration Decisions for Tertiary Education: How Far Are Chilean Students Willing to Go? (Working Paper)
+* Valdebenito, R., Lopez, E., Aroca, P. Assessing the effect of commuting on school performance: Evidence from Chile (Working Paper)

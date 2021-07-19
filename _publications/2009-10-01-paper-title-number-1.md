@@ -3,7 +3,7 @@ title: "Migration Decisions for Tertiary Education: How Far Are Chilean Students
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
-date: 
+date: 2021-07-01
 venue: 
 paperurl: 
 citation: 

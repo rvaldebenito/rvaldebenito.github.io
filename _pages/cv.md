@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Agricultural and Applied Economics, University of Illinois at Urbana-Champaign (2018-present)
+* Ph.D in Agricultural and Applied Economics, University of Illinois at Urbana-Champaign. 2018 - 2024 (Expected)
 * M.S. in Management, Universidad Adolfo Ibáñez, Chile. 2013
 * B.S. in Business Administration, Universidad Adolfo Ibáñez, Chile. 2013
 
 Work experience
 ======
-* Spring 2021-Present: Research Assistant 
-  * Social Networks and Women’s Reproductive Outcomes: Evidence from a Randomized Experiment in Rural India.
-  * Supervisor: Catalina Herrera-Almanza
+* Research Assistant 
+  * Social Networks and Women’s Reproductive Outcomes: Evidence from a Randomized Experiment in Rural India. Supervisor: Catalina Herrera-Almanza (UIUC), S Anukriti (World Bank), Mahesh Karra (Boston University)
+  * Informational Barriers to Female Employment in India: Experimental Evidence from Vocational Training Students. Supervisors: Catalina Herrera-Almanza (UIUC), S Anukriti (World Bank)
 
 * Teaching Assistant
   * Fall 2022: ACE 264 Applied Statistical Methods II (Professor: Marin Skidmore)    
@@ -27,7 +27,8 @@ Work experience
   * Fall 2020: ACE 261 Applied Statistical Methods (Professor: Lisa Gundersen)
 
 * Lecturer:
-  * 2015-2018: Microeconomics and Industrial Organization (Universidad Adolfo Ibáñez, Chile)  
+  * Fall 2023: Applied Statistics Lab, University of Illinois at Urbana-Champaign.   
+  * 2015-2018: Microeconomics; Industrial Organization; Econometrics Laboratory. Universidad Adolfo Ibáñez, Chile. 
 
 Skills
 ======

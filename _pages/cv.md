@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Link here for PDF version](https://www.dropbox.com/scl/fi/5nogz09a3imk6m2osb52t/RValdebenito_CV_July2023.pdf?rlkey=22lj37abwg5bn240znn7xs49t&dl=0)
+
 Education
 ======
 * Ph.D in Agricultural and Applied Economics, University of Illinois at Urbana-Champaign. 2018 - 2024 (Expected)

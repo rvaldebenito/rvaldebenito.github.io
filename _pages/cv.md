@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here a PDF version](https://www.dropbox.com/scl/fi/5nogz09a3imk6m2osb52t/RValdebenito_CV_July2023.pdf?rlkey=22lj37abwg5bn240znn7xs49t&dl=0)
+
+[Download here a PDF version](https://rvaldebenito.github.io/files/RValdebenito_CV_2023_09_20.pdf)
+
+
+
 
 Education
 ======

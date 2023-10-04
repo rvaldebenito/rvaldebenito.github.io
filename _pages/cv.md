@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download here a PDF version](https://rvaldebenito.github.io/files/RValdebenito_CV_2023_09_20.pdf)
+[Download here a PDF version](https://rvaldebenito.github.io/files/RValdebenito_CV.pdf)
 
 
 

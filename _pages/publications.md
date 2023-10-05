@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-Job Market Paper: Peer Influence and College Major Choices in Male-Dominated Fields (Draft Available Soon)
+Peer Influence and College Major Choices in Male-Dominated Fields (*job market paper*)
 ======
 
   This paper investigates the effect of high school peers' choices on individuals' college major choices and explores whether the gender of the individuals and their peers is a relevant mediating factor on these effects. The empirical approach employs a regression discontinuity design, using student-level data from 2005 to 2019 from the centralized admission system of Chilean universities, where admission cutoffs are unpredictable and defined each year for each program-university combination. This paper analyzes peers exposed to different fields of study, such as comparing individuals whose peers were enrolled in male-dominated fields with a counterfactual option in a female-dominated one. The main finding shows a positive and significant impact of having a peer enrolled in a technology and engineering program on an applicant's enrollment and application to the same field only when the counterfactual alternative of the peers' admission is classified in the field of humanities, social sciences, and education. The results suggest substantial heterogeneity by gender. While male students exhibit a higher inclination towards technology and engineering fields when influenced by peers who have opted for male-dominated disciplines, female students are less likely to pursue that field when exposed to such peers.

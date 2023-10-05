@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rocío Valdebenito"
   avatar           : "117tmc_small2.JPG"
-  bio              : "PhD Student"
+  bio              : "PhD Candidate"
   location         : "Illinois, USA"
   employer         :
   pubmed           : 
@@ -309,3 +309,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# Theme
+
+theme: minimal-mistakes-jekyll

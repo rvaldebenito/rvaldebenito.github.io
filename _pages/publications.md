@@ -24,5 +24,3 @@ The distribution of human capital plays a crucial role in shaping job opportunit
 
 
 
-
-

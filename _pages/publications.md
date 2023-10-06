@@ -15,7 +15,7 @@ This paper investigates the effect of high school peers' choices on individuals'
 
 
 
-Migration of High School Graduates: How Relevant are the Degree Type and Field of Study? 
+**Migration of High School Graduates: How Relevant are the Degree Type and Field of Study?**
 <br/>
 
 

@@ -9,11 +9,19 @@ author_profile: true
 {% include base_path %}
 
 
-Peer Influence and College Major Choices in Male-Dominated Fields (*job market paper*)
-======
+# <center> Working Papers </center>
+- - -
 
-  This paper investigates the effect of high school peers' choices on individuals' college major choices and explores whether the gender of the individuals and their peers is a relevant mediating factor on these effects. The empirical approach employs a regression discontinuity design, using student-level data from 2005 to 2019 from the centralized admission system of Chilean universities, where admission cutoffs are unpredictable and defined each year for each program-university combination. This paper analyzes peers exposed to different fields of study, such as comparing individuals whose peers were enrolled in male-dominated fields with a counterfactual option in a female-dominated one. The main finding shows a positive and significant impact of having a peer enrolled in a technology and engineering program on an applicant's enrollment and application to the same field only when the counterfactual alternative of the peers' admission is classified in the field of humanities, social sciences, and education. The results suggest substantial heterogeneity by gender. While male students exhibit a higher inclination towards technology and engineering fields when influenced by peers who have opted for male-dominated disciplines, female students are less likely to pursue that field when exposed to such peers.
+**Peer Influence and College Major Choices in Male-Dominated Fields** [*job market paper*]
+<br/>
+<small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][log0-draft] ] </small>
+<div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper investigates the effect of high school peers' choices on individuals' college major choices and explores whether the gender of the individuals and their peers is a relevant mediating factor on these effects. The empirical approach employs a regression discontinuity design, using student-level data from 2005 to 2019 from the centralized admission system of Chilean universities, where admission cutoffs are unpredictable and defined each year for each program-university combination. This paper analyzes peers exposed to different fields of study, such as comparing individuals whose peers were enrolled in male-dominated fields with a counterfactual option in a female-dominated one. The main finding shows a positive and significant impact of having a peer enrolled in a technology and engineering program on an applicant's enrollment and application to the same field only when the counterfactual alternative of the peers' admission is classified in the field of humanities, social sciences, and education. The results suggest substantial heterogeneity by gender. While male students exhibit a higher inclination towards technology and engineering fields when influenced by peers who have opted for male-dominated disciplines, female students are less likely to pursue that field when exposed to such peers.
+</small><br><br/></div>
 
+
+
+  
 
 Working Paper: Migration of High School Graduates: How Relevant are the Degree Type and Field of Study? 
 ======

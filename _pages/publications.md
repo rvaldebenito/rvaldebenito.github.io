@@ -2,7 +2,6 @@
 layout: single
 title: 
 permalink: /publications/
-author_profile: true
 ---
 
 # <center> Working Papers </center>

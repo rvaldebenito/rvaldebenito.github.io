@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download here a PDF version](https://rvaldebenito.github.io/files/RValdebenito_CV.pdf)
-
+**[Download CV](https://rvaldebenito.github.io/files/RValdebenito_CV.pdf)**
 
 
 
@@ -40,9 +39,3 @@ Skills
 ======
 * Python, R, Stata, ArcGIS. 
 
-Research
-======
-* Anukriti, S., Herrera-Almanza, C., Karra, M., & Valdebenito, R. (2022). Convincing the Mummy-ji: Improving Mother-in-Law Approval of Family Planning in India. *AEA Papers and Proceedings*, 112,  568-572.
-* Aroca, P., Gonzalez, P. A., & Valdebenito, R. (2017). The heterogeneous level of life quality across Chilean regions. *Habitat International*, 68, 84-98.
-* Valdebenito, R., Dall'Erba, S., Arends-Kuenning, M., Ridley, W. Migration Decisions for Tertiary Education: How Far Are Chilean Students Willing to Go? (Working Paper)
-* Valdebenito, R., Lopez, E., Aroca, P. Assessing the effect of commuting on school performance: Evidence from Chile (Working Paper)

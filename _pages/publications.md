@@ -28,6 +28,7 @@ The distribution of human capital plays a crucial role in shaping job opportunit
 
 **Quality Certification in Higher Education: A Policy Evaluation from Chile** 
 *(with Cristhian Molina)*
+
 **Assessing the Effect of Commuting on School Performance: Evidence from Chile** 
 *(with Esteban López and Patricio Aroca)*
 
@@ -36,7 +37,8 @@ The distribution of human capital plays a crucial role in shaping job opportunit
 # <center> Publications </center>
 - - -
 
-Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: Improving Mother-inLaw Approval of Family Planning in India. *AEA Papers and Proceedings*, 112, 568-72. [[link]]([https://rvaldebenito.github.io/files/RValdebenito_CV.pdf](https://www.aeaweb.org/articles?id=10.1257/pandp.20221122))
+Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: Improving Mother-inLaw Approval of Family Planning in India. *AEA Papers and Proceedings*, 112, 568-72. [[link]]([https://rvaldebenito.github.io/files/RValdebenito_CV.pdf](https://www.aeaweb.org/articles?id=10.1257/pandp.20221122)
+
 Aroca, Gonz´alez, Valdebenito (2017). The heterogeneous level of life quality across Chilean regions. *Habitat International* 68, 84-98. [[link]](https://www.sciencedirect.com/science/article/pii/S0197397516307937)
 
 

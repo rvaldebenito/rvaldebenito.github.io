@@ -29,8 +29,11 @@ The distribution of human capital plays a crucial role in shaping job opportunit
 **Quality Certification in Higher Education: A Policy Evaluation from Chile** 
 *(with Cristhian Molina)*
 
+**The Effect of Transitory Environmental Factors on Human Capital Formation: Evidence from Chile**
+*(with [Verónica Vienne](https://sites.google.com/view/veronicavienne/home), [Ron Chan](https://sites.google.com/site/ronhschan), [Jeanne Tschopp](https://jtschopp.com/), and [Martino Pelli](https://sites.google.com/site/martinopelli/home))*
+
 **Assessing the Effect of Commuting on School Performance: Evidence from Chile** 
-*(with Esteban López and Patricio Aroca)*
+*(with [Esteban López](https://klesse.utsa.edu/research/curpr/_blocks/_staff/ochoa-lopez-esteban1.html) and [Patricio Aroca](https://scholar.google.com/citations?user=1cfyyTEAAAAJ&hl=pt-PT))*
 
 
 

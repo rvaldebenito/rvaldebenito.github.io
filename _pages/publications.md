@@ -19,7 +19,7 @@ author_profile: true
 **Migration of High School Graduates: How Relevant are the Degree Type and Field of Study?**
 *(with Mary Arends-Kuenning, Sandy Dall'erba, William Ridley)*
 <br/>
-
+**[Download paper](https://rvaldebenito.github.io/files/valdebenito_et_al_migration_paper.pdf)**
 
 The distribution of human capital plays a crucial role in shaping job opportunities, income levels, and the overall regional labor force in both the short and long term. This paper utilizes a unique dataset encompassing all Chilean students pursuing higher education from 2011 to 2017 to examine how geography, tertiary institution type, and field of study influence students' migration decisions. Our findings provide novel insights on the forces that shape the locational and programmatic decisions of students in higher education, and thus, the inter-regional distribution of human capital. Employing a gravity model approach, the findings emphasize that variations in migration patterns are influenced by factors such as the type of institution, field of study, and the regions of origin and destination for students. The estimates reveal disparities in how Vocational degrees attract students from their own regions and neighboring areas compared to universities offering Bachelor's Degrees. Furthermore, the analysis of different fields of study suggests that Education, Health, and Technology and Engineering tend to attract students from their local communities, although the degree of heterogeneity across fields is less pronounced. The results also indicate an inter-regional polarization in educational resources, with the capital region attracting a disproportionately higher number of students from other regions.
 

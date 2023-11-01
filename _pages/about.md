@@ -13,7 +13,7 @@ I am PhD Candidate in [Applied Economics at the University of Illinois at Urbana
 Prior to the PhD, I worked as a Research Assistant and Lecturer in the [Center for Regional Economics and Policy](https://cepr.uai.cl/) at Universidad Adolfo Ibañez, Chile. 
 
 I'm on the 2023-2024 Job Market.
-A draft of my job market paper will be available soon. 
+A draft of my job market paper is [available here](https://rvaldebenito.github.io/files/valdebenito_jmp_peers_college.pdf)
 
 
 

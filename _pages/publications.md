@@ -39,9 +39,6 @@ Aroca, González, Valdebenito (2017). The heterogeneous level of life quality ac
 # <center> Work in Progress </center>
 - - -
 
-**Quality Certification in Higher Education: A Policy Evaluation from Chile** 
-*(with Cristhian Molina)*
-
 **The Effect of Transitory Environmental Factors on Human Capital Formation: Evidence from Chile**
 *(with [Verónica Vienne](https://sites.google.com/view/veronicavienne/home), [Ron Chan](https://sites.google.com/site/ronhschan), [Jeanne Tschopp](https://jtschopp.com/), and [Martino Pelli](https://sites.google.com/site/martinopelli/home))*
 

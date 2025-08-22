@@ -18,19 +18,18 @@ Aroca, González, Valdebenito (2017). The heterogeneous level of life quality ac
 - - -
 
 **Peer Influence and College Major Choices in Male-Dominated Fields** <br/>
-**[draft](https://rvaldebenito.github.io/files/valdebenito_jmp_peers_college.pdf)**
+**[Draft](https://rvaldebenito.github.io/files/valdebenito_jmp_peers_college.pdf)**
 
-**Migration of High School Graduates: How Relevant are Degree Type and Field of Study?**
+**Migration of High School Graduates: How Relevant are Degree Type and Field of Study?** <br/>
 *(with Mary Arends-Kuenning, Sandy Dall'erba, William Ridley)* Submitted. 
-<br/>
-**[draft](https://rvaldebenito.github.io/files/valdebenito_et_al_migration_paper.pdf)**
+**[Draft](https://rvaldebenito.github.io/files/valdebenito_et_al_migration_paper.pdf)**
 
 **To Profit or not to Profit? Evidence from Chile’s For-Profit Voucher Schools**
 *(with Bárbara Boggiano and Cristián Sánchez)* Submitted.
-**[draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390405)**
+**[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390405)**
 
 
-**Signaling Quality or Gaming the System? Evidence from College-Major Accreditation**
+**Signaling Quality or Gaming the System? Evidence from College-Major Accreditation** <br/>
 *(with [Cristhian Molina](https://cmolinag.github.io/) (JMP))* 
 **[draft](https://cmolinag.github.io/assets/pdf/JMP_SignalingorGaming.pdf)**
 

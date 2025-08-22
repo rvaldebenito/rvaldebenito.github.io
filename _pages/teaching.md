@@ -7,6 +7,12 @@ author_profile: true
 
 Instructor
 ======
+
+Universidad Alberto Hurtado
+* Econometrics (2024 - current)
+* Industrial Organization (2024 - current)
+* Microeconomics III (2024 - current)
+
 University of Illinois at Urbana-Champaign
 * Applied Statistics Lab using R, (Fall 2023)
 

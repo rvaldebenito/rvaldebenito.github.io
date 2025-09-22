@@ -13,7 +13,7 @@ Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: I
 
 Aroca, González, Valdebenito (2017). The heterogeneous level of life quality across Chilean regions. *Habitat International* 68, 84-98. [[link]](https://www.sciencedirect.com/science/article/pii/S0197397516307937)
 
-Valdebenito, Ridley, Arends-Kuenning, Dall'erba (forthcoming). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study *Education Economics*. 
+Valdebenito, Ridley, Arends-Kuenning, Dall'erba (forthcoming). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. 
 
 # <center> Working Papers </center>
 - - -

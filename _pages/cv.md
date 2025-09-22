@@ -16,11 +16,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Agricultural and Applied Economics, University of Illinois at Urbana-Champaign. 2018 - 2024 (Expected)
-* M.S. in Management, Universidad Adolfo Ibáñez, Chile. 2013
-* B.S. in Business Administration, Universidad Adolfo Ibáñez, Chile. 2013
+* Ph.D in Agricultural and Applied Economics, University of Illinois at Urbana-Champaign. 2018 - 2024.
+* M.S. in Management, Universidad Adolfo Ibáñez, Chile. 2013.
+* B.S. in Business Administration, Universidad Adolfo Ibáñez, Chile. 2013.
 
-Work experience
+Current Employment
+======
+* Assistant Professor, School of Economics and Business, Universidad Alberto Hurtado, Chile. 2024 - present. 
+
+Previous work experience
 ======
 * Research Assistant 
   * Social Networks and Women’s Reproductive Outcomes: Evidence from a Randomized Experiment in Rural India. Supervisor: Catalina Herrera-Almanza (UIUC), S Anukriti (World Bank), Mahesh Karra (Boston University)
@@ -35,7 +39,4 @@ Work experience
   * Fall 2023: Applied Statistics Lab, University of Illinois at Urbana-Champaign.   
   * 2015-2018: Microeconomics; Industrial Organization; Econometrics Laboratory. Universidad Adolfo Ibáñez, Chile. 
 
-Skills
-======
-* Python, R, Stata, ArcGIS. 
 

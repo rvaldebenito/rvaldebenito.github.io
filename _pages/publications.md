@@ -9,11 +9,12 @@ author_profile: true
 # <center> Publications </center>
 - - -
 
-Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: Improving Mother-in-Law Approval of Family Planning in India. *AEA Papers and Proceedings*, 112, 568-72. [[link]](https://www.aeaweb.org/articles?id=10.1257/pandp.20221122)
+Valdebenito, Ridley, Arends-Kuenning, Dall'erba (2025). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. [[link]]([https://www.sciencedirect.com/science/article/pii/S0197397516307937](https://www.tandfonline.com/doi/full/10.1080/09645292.2025.2565355))
 
-Aroca, González, Valdebenito (2017). The heterogeneous level of life quality across Chilean regions. *Habitat International* 68, 84-98. [[link]](https://www.sciencedirect.com/science/article/pii/S0197397516307937)
+Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: Improving Mother-in-Law Approval of Family Planning in India. *AEA Papers and Proceedings*. [[link]](https://www.aeaweb.org/articles?id=10.1257/pandp.20221122)
 
-Valdebenito, Ridley, Arends-Kuenning, Dall'erba (forthcoming). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. 
+Aroca, González, Valdebenito (2017). The heterogeneous level of life quality across Chilean regions. *Habitat International*. [[link]](https://www.sciencedirect.com/science/article/pii/S0197397516307937)
+
 
 # <center> Working Papers </center>
 - - -

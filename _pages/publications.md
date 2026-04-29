@@ -23,7 +23,7 @@ Aroca, González, Valdebenito (2017). The heterogeneous level of life quality ac
 **[Draft](https://rvaldebenito.github.io/files/valdebenito_jmp_peers_college.pdf)**
 
 **To Profit or not to Profit? Evidence from Chile’s For-Profit Voucher Schools**
-*(with Bárbara Boggiano and Cristián Sánchez)* (RR at Economic Letters).
+*(with Bárbara Boggiano and Cristián Sánchez)* (RR requested by  Applied Economics Letters).
 **[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390405)**
 
 **Signaling Quality or Gaming the System? Evidence from College-Major Accreditation** <br/>

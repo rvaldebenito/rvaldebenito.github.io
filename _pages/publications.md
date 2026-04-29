@@ -9,7 +9,7 @@ author_profile: true
 # <center> Publications </center>
 - - -
 
-Valdebenito, Ridley, Arends-Kuenning, Dall'erba (2025). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. [[link]]([https://www.sciencedirect.com/science/article/pii/S0197397516307937](https://www.tandfonline.com/doi/full/10.1080/09645292.2025.2565355))
+Valdebenito, Ridley, Arends-Kuenning, Dall'erba (2025). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. [[link]](https://www.tandfonline.com/doi/abs/10.1080/09645292.2025.2565355)
 
 Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: Improving Mother-in-Law Approval of Family Planning in India. *AEA Papers and Proceedings*. [[link]](https://www.aeaweb.org/articles?id=10.1257/pandp.20221122)
 
@@ -23,12 +23,18 @@ Aroca, González, Valdebenito (2017). The heterogeneous level of life quality ac
 **[Draft](https://rvaldebenito.github.io/files/valdebenito_jmp_peers_college.pdf)**
 
 **To Profit or not to Profit? Evidence from Chile’s For-Profit Voucher Schools**
-*(with Bárbara Boggiano and Cristián Sánchez)* Submitted.
+*(with Bárbara Boggiano and Cristián Sánchez)* (RR at Economic Letters).
 **[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390405)**
 
 **Signaling Quality or Gaming the System? Evidence from College-Major Accreditation** <br/>
 *(with [Cristhian Molina](https://cmolinag.github.io/) (JMP))* 
 **[draft](https://cmolinag.github.io/assets/pdf/JMP_SignalingorGaming.pdf)**
+
+**When Certification Hurts: Accreditation Signals and Graduate Wages** <br/>
+*(with [Cristhian Molina](https://cmolinag.github.io/) )* 
+**[draft](https://cmolinag.github.io/assets/pdf/CMRV%20-%20WhenCertificationHurts.pdf)**
+
+
 
 
 

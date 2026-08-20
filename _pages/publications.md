@@ -9,6 +9,8 @@ author_profile: true
 # <center> Publications </center>
 - - -
 
+Boggiano, Sanchez, Valdebenito (2026). To profit or not to profit? Evidence from Chile’s for-profit voucher schools. *Applied Economics Letters*. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567)
+
 Valdebenito, Ridley, Arends-Kuenning, Dall'erba (2025). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. [[link]](https://www.tandfonline.com/doi/abs/10.1080/09645292.2025.2565355)
 
 Anukriti, Herrera-Almanza, Karra, Valdebenito (2022). Convincing the Mummy-ji: Improving Mother-in-Law Approval of Family Planning in India. *AEA Papers and Proceedings*. [[link]](https://www.aeaweb.org/articles?id=10.1257/pandp.20221122)
@@ -21,10 +23,6 @@ Aroca, González, Valdebenito (2017). The heterogeneous level of life quality ac
 
 **Peer Influence and College Major Choices in Male-Dominated Fields** <br/>
 **[Draft](https://rvaldebenito.github.io/files/valdebenito_jmp_peers_college.pdf)**
-
-**To Profit or not to Profit? Evidence from Chile’s For-Profit Voucher Schools**
-*(with Bárbara Boggiano and Cristián Sánchez)* (RR requested by  Applied Economics Letters).
-**[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390405)**
 
 **Signaling Quality or Gaming the System? Evidence from College-Major Accreditation** <br/>
 *(with [Cristhian Molina](https://cmolinag.github.io/) (JMP))* 

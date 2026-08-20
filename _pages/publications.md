@@ -9,7 +9,7 @@ author_profile: true
 # <center> Publications </center>
 - - -
 
-Boggiano, Sanchez, Valdebenito (2026). To profit or not to profit? Evidence from Chile’s for-profit voucher schools. *Applied Economics Letters*. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567)
+Boggiano, Sánchez, Valdebenito (2026). To profit or not to profit? Evidence from Chile’s for-profit voucher schools. *Applied Economics Letters*. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567)
 
 Valdebenito, Ridley, Arends-Kuenning, Dall'erba (2025). Migration of High School Graduates for Higher Education: The Role of Degree Type and Field of Study. *Education Economics*. [[link]](https://www.tandfonline.com/doi/abs/10.1080/09645292.2025.2565355)
 
